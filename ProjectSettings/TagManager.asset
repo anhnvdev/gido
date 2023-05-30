@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Breakable
+  - LandLimit
+  - Bullet
+  - Enemy
+  - CheckPoint
+  - Trap
+  - BlockJump
+  - CheckPointStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - AllyBullet
+  - Water
+  - UI
+  - Walkable
+  - Player
+  - CollisionImunity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
